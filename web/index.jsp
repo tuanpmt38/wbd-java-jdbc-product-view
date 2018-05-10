@@ -9,10 +9,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>product</title>
   </head>
   <body>
-  <h1>Customers</h1>
+  <h1>Product</h1>
   <table border="1">
       <tr>
           <td>Id</td>
